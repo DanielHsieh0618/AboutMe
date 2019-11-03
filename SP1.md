@@ -2,7 +2,7 @@
 
 ### Technical requirements
 
-- [ ] server side : node.js
+- [ ] server side : asp net core
 - [ ] client side : vue.js
 - [ ] database : mongodb
 - [ ] design and build ontology model

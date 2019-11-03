@@ -1,7 +1,11 @@
-### 短期待辦事項
+### TodoList
 
-- [x] 一頁式履歷(Resume)
-- [ ] 個人網站(CV)
-- [ ] js30practice
-- [ ] git 學習筆記
-- [ ] Mongodb學習筆記
+- [x] 一頁式履歷(CV)
+- [ ] 個人網站
+- [ ] git Note
+- [ ] Mongodb Note
+- [ ] Data Strutrues and Algorithms
+- [ ] C/C++ Note
+- [ ] docker Note
+- [ ] Clean Architectrue Note
+ 
