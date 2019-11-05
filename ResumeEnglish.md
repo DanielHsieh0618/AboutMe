@@ -1,61 +1,88 @@
-# Justin Chien
+# Yi Hsuan Chien (Justin)
 
-+ Job Title :Full-Stack Web Develper
-+ Birthday : 1991/12/28
-+ Education : Master of Engineering at National Cheng Kung University(2014/9-2016/8)
-+ Location : Taipei.Taiwan
-+ Personal Website : in preparation
-+ Email : justin6302971@gmail.com
++ Job Title : Full-Stack Web Develper
++ Birthday  : 1991/12/28
++ Education : Master's degree in Engineering Management at National Cheng Kung University(2014/9-2016/6)
++ Location  : Taipei, Taiwan
++ Email     : justin6302971@gmail.com
 
 * * *
-## Work Experience
+## Profile
+Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions to challenges and producing code. Eager to work with personnel in all areas of company to help boost profits and improve opportunities.
+Proven experience developing consumer-focused web sites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability , speed and focusing on creating clean, robust code with exceptional security.
+Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating solutions into code and working across many different APIs, third-party integrations and databases.
+* * *
 
-### WeBIM Services - Re (2016/9 -present)
-+ Ｃustomized Management Information System Development
-+ Web GIS Development(Cesium.js)
-+ Web BIM Development(Forge,three.js)
+## Work Experience
+#### Team Leader, WeBIM Services (2019/4 - Current)
++ Represented web team at meetings with executives and    discussed project goals and milestones
++ Collected, defined and translated user requirements into project designs and implementation plans
++ Analyzed requirements and designed, developed and implemented software applications for multiple websites
++ Determined coding requirements for development team, such as coding conventions, principles, patterns and clean code guide
++ Kept abreast of emerging technologies, software and trends and project applications
+
+
+#### R&D Engineer, WeBIM Services (2016/9 - 2019/4)
++ Designed, implemented and monitored customized web-based management information system integrated with BIM
++ Implemented website and integrated solutions into business operations 
++ Used programming capabilities in C#, SQL and JavaScript(ES6 and later) and other libraries as needed
++ Designed new features and services and integrated 3rd-party API to support client applications
++ Hands-on experience using Windows Server, IIS Web servers,SQL Server and MongoDB
++ Optimized the application for maximum speed and scalability
++ Created site layout and user interface using HTML and CSS practices
++ Participated in agile software development
++ Researched new technologies, software packages and hardware products for use in website projects
+
 * * *
 
 ## Skills
+#### Programing Languages
++ C# (Proficient)
++ Javascript (Proficient)
++ HTML5 (Familiar with)
++ CSS (Familiar with)
++ SQL (Familiar with)
 
-##### Client-side
-+ Apply HTML5 + CSS3 to accomplish RWD
-+ jQeury/AJAX/javascript(ES6 and later)
-+ Worked on 3rd-party API integrations with Forge and Cesium.js
-+ Familiar with Third-party kit (Kendo UI)
+#### Front-end 
++ Kendo UI (Proficient)
++ Autodesk Forge (Proficient)
++ Bootstrap (Proficient)
++ jQuery (Proficient)
 
-##### Server-side
-+ C#/MVC5/LINQ
+#### Back-end
++ ASP Net MVC 5 (Proficient)
++ ASP Net Web Api 2 (Familiar with)
++ Linq (Familiar with)
++ Entity Framework (Familiar with)
++ SQL Server (Familiar with)
++ Mongo (Familiar with)
++ IIS (Familiar with)
 
-##### Database
-+ Relational Database Design and Development(SQL ServerDB)
-+ NoSQL Design,Develop,Operate and Security Management(MongoDB)
+#### others
++ Git 
++ TFVC
++ Azure DevOps
++ CICD 
++ Agile workflow processes
++ N-Layers Design Pattern
++ DI & IOC 
++ OOP
 
-##### others
-+ basic usage for Git / Github
+* * *
+## Projects
++ BIM-based construction management information system(2018-2019)
++ BIM,GIS and IoT Integrated environment monitoring system(2017)
++ BIM-based material management information system(2016)
+* * *
+## Languages
++ Chinese (Native)
++ English (Limited working proficiency)
+* * *
+
+## Accomplishments
++ Determine code guide to improve code quality and readability 
++ Implement N-Layer, DI and IoC Patterns to improve code  maintainability  
++ Implement CICD Workflow with Azure DevOps to improve code quality and efficiency
 
 * * *
 
-## Works
-
-+ remain updating
-
-* * *
-
-## Learning Plan
-+ Front-end Framework : Vue.js
-+ Server Dide : Node.js
-+ Dev Ops : CI-CD
-+ Version Control : git/github
-
-* * *
-
-## About Me
-+ BIM(Building Information Modeling) professionals
-+ Willing learn new things
-+ Capable of teamwork and communication
-+ Satisfy independent research and integrations capability
-
-
-
-* * *
