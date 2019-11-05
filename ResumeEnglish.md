@@ -6,11 +6,9 @@
 + Location  : Taipei, Taiwan
 + Email     : justin6302971@gmail.com
 
-* * *
 ## Profile
 Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and producing code. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused web sites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security.
 Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating solutions into code and working across many different APIs, third-party integrations and databases.
-* * *
 
 ## Work Experience
 #### Team Leader, WeBIM Services (2019/4 - Current)
@@ -31,8 +29,6 @@ Responding to challenges by designing and developing solutions and building web 
 + Created site layout and user interface using HTML and CSS practices
 + Participated in agile software development
 + Researched new technologies, software packages and hardware products for use in website projects
-
-* * *
 
 ## Skills
 #### Programing Languages
@@ -68,21 +64,18 @@ Responding to challenges by designing and developing solutions and building web 
 + DI & IOC 
 + OOP
 
-* * *
 ## Projects
 + BIM-based construction management information system(2018-2019)
 + BIM,GIS and IoT Integrated environment monitoring system(2017)
 + BIM-based material management information system(2016)
-* * *
+
 ## Languages
 + Chinese (Native)
 + English (Limited working proficiency)
-* * *
 
 ## Accomplishments
 + Determine code guide to improve code quality and readability 
 + Implement N-Layer, DI and IoC patterns to improve code  maintainability  
 + Implement CICD Workflow with Azure DevOps to improve code quality and delivery efficiency
 
-* * *
 
