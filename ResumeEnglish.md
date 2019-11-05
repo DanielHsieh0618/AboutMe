@@ -8,8 +8,7 @@
 
 * * *
 ## Profile
-Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions to challenges and producing code. Eager to work with personnel in all areas of company to help boost profits and improve opportunities.
-Proven experience developing consumer-focused web sites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability , speed and focusing on creating clean, robust code with exceptional security.
+Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and producing code. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused web sites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security.
 Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating solutions into code and working across many different APIs, third-party integrations and databases.
 * * *
 
@@ -38,33 +37,34 @@ Responding to challenges by designing and developing solutions and building web 
 ## Skills
 #### Programing Languages
 + C# (Proficient)
-+ Javascript (Proficient)
-+ HTML5 (Familiar with)
-+ CSS (Familiar with)
-+ SQL (Familiar with)
++ ECMAScript/Javascript (Proficient)
++ C/C++(Used)
 
-#### Front-end 
+#### Front-end Technologies
 + Kendo UI (Proficient)
 + Autodesk Forge (Proficient)
 + Bootstrap (Proficient)
 + jQuery (Proficient)
++ HTML5 (Familiar with)
++ CSS (Familiar with)
 
-#### Back-end
+#### Back-end Technologies
 + ASP Net MVC 5 (Proficient)
 + ASP Net Web Api 2 (Familiar with)
 + Linq (Familiar with)
++ T-SQL (Familiar with)
 + Entity Framework (Familiar with)
 + SQL Server (Familiar with)
 + Mongo (Familiar with)
 + IIS (Familiar with)
 
-#### others
+#### Others
 + Git 
 + TFVC
 + Azure DevOps
 + CICD 
-+ Agile workflow processes
-+ N-Layers Design Pattern
++ Agile Methodology
++ N-Layer Architecture Pattern
 + DI & IOC 
 + OOP
 
@@ -81,8 +81,8 @@ Responding to challenges by designing and developing solutions and building web 
 
 ## Accomplishments
 + Determine code guide to improve code quality and readability 
-+ Implement N-Layer, DI and IoC Patterns to improve code  maintainability  
-+ Implement CICD Workflow with Azure DevOps to improve code quality and efficiency
++ Implement N-Layer, DI and IoC patterns to improve code  maintainability  
++ Implement CICD Workflow with Azure DevOps to improve code quality and delivery efficiency
 
 * * *
 
