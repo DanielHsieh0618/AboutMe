@@ -7,7 +7,7 @@
 + Email     : justin6302971@gmail.com
 
 ## Overview
-Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and create websites via C#. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused web sites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security.
+Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and coding for websites. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused websites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security.
 Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating solutions into code and working across many different APIs, third-party integrations and databases.
 
 ## Work Experience
@@ -65,9 +65,18 @@ Responding to challenges by designing and developing solutions and building web 
 + OOP
 
 ## Projects
-+ BIM-based construction management information system(2018-2019)
-+ BIM,GIS and IoT Integrated environment monitoring system(2017)
-+ BIM-based material management information system(2016)
+>## **BIM-based** **On-site** **work** **management** **information** **system** (2018/10 - 2019/10)
+>### _Continental_ _Engineering_ _Corp._  
+>
+
+>## **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (2018/2 - 2018/8)
+>### _Dept._ _of_ _Archiecture_, _Feng_ _Chia_ _University_ 
+>
+
+>## **BIM-based** **material** **management** **information** **system** (2016/12 - 2017/6)
+>### _Taiwan_ _Hirukawa_ _Metal_ _Corp._,_LTD_
+>
+
 
 ## Languages
 + Chinese (Native)
