@@ -65,16 +65,16 @@ Responding to challenges by designing and developing solutions and building web 
 + OOP
 
 ## Projects
->## **BIM-based** **On-site** **work** **management** **information** **system** (2018/10 - 2019/10)
->### _Continental_ _Engineering_ _Corp._  
+>### **BIM-based** **On-site** **work** **management** **information** **system** (2018/10 - 2019/10)
+>#### _Continental_ _Engineering_ _Corp._  
 >
 
->## **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (2018/2 - 2018/8)
->### _Dept._ _of_ _Archiecture_, _Feng_ _Chia_ _University_ 
+>### **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (2018/2 - 2018/8)
+>#### _Dept._ _of_ _Archiecture_, _Feng_ _Chia_ _University_ 
 >
 
 >## **BIM-based** **material** **management** **information** **system** (2016/12 - 2017/6)
->### _Taiwan_ _Hirukawa_ _Metal_ _Corp._,_LTD_
+>#### _Taiwan_ _Hirukawa_ _Metal_ _Corp._,_LTD_
 >
 
 
