@@ -1,18 +1,18 @@
 # Yi Hsuan Chien (Justin)
 
-+ Job Title : Full-Stack Web Develper
++ Job Title : Full-Stack Develper
 + Birthday  : 1991/12/28
 + Education : Master's degree in Engineering Management at National Cheng Kung University(2014/9-2016/6)
 + Location  : Taipei, Taiwan
 + Email     : justin6302971@gmail.com
 
 ## Overview
-Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and producing code. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused web sites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security.
+Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and create websites via C#. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused web sites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security.
 Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating solutions into code and working across many different APIs, third-party integrations and databases.
 
 ## Work Experience
 #### Team Leader, WeBIM Services (2019/4 - Current)
-+ Represented web team at meetings with executives and    discussed project goals and milestones
++ Represented web team at meetings with executives and discussed project goals and milestones
 + Collected, defined and translated user requirements into project designs and implementation plans
 + Analyzed requirements and designed, developed and implemented software applications for multiple websites
 + Determined coding requirements for development team, such as coding conventions, principles, patterns and clean code guide
@@ -61,7 +61,7 @@ Responding to challenges by designing and developing solutions and building web 
 + CICD 
 + Agile Methodology
 + N-Layer Architecture Pattern
-+ DI & IOC 
++ DI & IoC 
 + OOP
 
 ## Projects
