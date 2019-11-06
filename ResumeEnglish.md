@@ -73,7 +73,7 @@ Responding to challenges by designing and developing solutions and building web 
 #### _Dept._ _of_ _Archiecture_, _Feng_ _Chia_ _University_ 
 
 
-## **BIM-based** **material** **management** **information** **system** (2016/12 - 2017/6)
+### **BIM-based** **material** **management** **information** **system** (2016/12 - 2017/6)
 #### _Taiwan_ _Hirukawa_ _Metal_ _Corp._,_LTD_
 
 
