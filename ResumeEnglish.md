@@ -65,7 +65,7 @@ Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerf
 
 ## Projects
 ### **BIM-based** **jobsite** **work** **management** **information** **system** (2018/10 - 2019/10)
-Manage interactive contruction data including bim models, drawings and panoramas, generate on-site QR codes for construction quality control and manage RFIs to track construction issues.
+Manage interactive contruction data including BIM models, drawings and panoramas, generate on-site QR codes for construction quality control and manage RFIs to track construction issues.
 
 ### **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (2017/10 - 2018/5)
 Manage sensors and building models, monitor instant sensor data through web viewer including BIM and GIS, and generate vizualization charts for historical sensor data.
