@@ -1,14 +1,13 @@
 # Yi Hsuan Chien (Justin)
 
-+ Job Title : Full-Stack Develper
++ Job Title : Full-Stack Developer
 + Birthday  : 1991/12/28
 + Education : Master's degree in Engineering Management at National Cheng Kung University(2014/9-2016/6)
 + Location  : Taipei, Taiwan
 + Email     : justin6302971@gmail.com
 
 ## Overview
-Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and coding for websites. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused websites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security.
-Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating solutions into code and working across many different APIs, third-party integrations and databases.
+Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and coding for websites. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused websites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security. Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating solutions into code and working across many different APIs, third-party integrations and databases.
 
 ## Work Experience
 #### Team Leader, WeBIM Services (2019/4 - Current)
