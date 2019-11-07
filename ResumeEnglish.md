@@ -68,7 +68,7 @@ Responding to challenges by designing and developing solutions and building web 
 ### **BIM-based** **jobsite** **work** **management** **information** **system** (2018/10 - 2019/10)
 Manage interactive contruction data including bim models, drawings and panoramas, generate on-site QR codes for construction quality control and manage RFIs to track construction issues.
 
-### **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (2018/2 - 2018/8)
+### **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (2017/10 - 2018/5)
 Manage sensors and building models, monitor instant sensor data through web viewer including BIM and GIS, and generate vizualization charts for historical sensor data.
 
 ### **BIM-based** **material** **management** **information** **system** (2016/12 - 2017/6)
