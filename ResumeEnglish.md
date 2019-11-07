@@ -65,18 +65,14 @@ Responding to challenges by designing and developing solutions and building web 
 + OOP
 
 ## Projects
-### **BIM-based** **On-site** **work** **management** **information** **system** (2018/10 - 2019/10)
-#### _Continental_ _Engineering_ _Corp._  
-
+### **BIM-based** **jobsite** **work** **management** **information** **system** (2018/10 - 2019/10)
+Manage interactive contruction data including bim models, drawings and panoramas, generate on-site QR codes for construction quality control and manage RFIs to track construction issues.
 
 ### **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (2018/2 - 2018/8)
-#### _Dept._ _of_ _Archiecture_, _Feng_ _Chia_ _University_ 
-
+Manage sensors and building models, monitor instant sensor data through web viewer including BIM and GIS, and generate vizualization charts for historical sensor data.
 
 ### **BIM-based** **material** **management** **information** **system** (2016/12 - 2017/6)
-#### _Taiwan_ _Hirukawa_ _Metal_ _Corp._,_LTD_
-
-
+Manage contruction materials shipping order, track the contruction materials arrival status and check materials types and installation positions on site via 3D BIM Models.
 
 ## Languages
 + Chinese (Native)
