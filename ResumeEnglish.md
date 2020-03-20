@@ -1,7 +1,6 @@
 # Yi Hsuan Chien (Justin)
 
 + Job Title : Full-Stack Developer
-+ Birthday  : 1991/12/28
 + Education : Master's degree in Engineering Management at National Cheng Kung University(2014/9-2016/6)
 + Location  : Taipei, Taiwan
 + Email     : justin6302971@gmail.com
@@ -10,7 +9,7 @@
 Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerful set of technology skills, in charge of gathering user requirements, finding solutions and coding for websites. Eager to work with personnel in all areas of company to help boost profits and improve opportunities. Proven experience developing consumer-focused websites with C#, HTML5, CSS, JQuery and JavaScript, meeting highest standards for user experience, best practices, usability, speed and focusing on creating clean, robust code with exceptional security. Responding to challenges by designing and developing solutions and building web applications aligned to customer's services. Translating solutions into code and working across many different APIs, third-party integrations and databases.
 
 ## Work Experience
-#### Team Leader, WeBIM Services (2019/4 - Current)
+#### Team Leader, WeBIM Services (April 2019 - Present)
 + Represented web team at meetings with executives and discussed project goals and milestones
 + Collected, defined and translated user requirements into project designs and implementation plans
 + Analyzed requirements and designed, developed and implemented software applications for multiple websites
@@ -18,7 +17,7 @@ Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerf
 + Kept abreast of emerging technologies, software and trends and project applications
 
 
-#### R&D Engineer, WeBIM Services (2016/9 - 2019/4)
+#### R&D Engineer, WeBIM Services (September 2016 - April 2019)
 + Designed, implemented and monitored customized web-based management information system integrated with BIM
 + Implemented website and integrated solutions into business operations 
 + Used programming capabilities in C#, SQL and JavaScript(ES6 and later) and other libraries as needed
@@ -64,13 +63,13 @@ Ambitious problem-solving Team Leader and Full-Stack Developer leveraging powerf
 + OOP
 
 ## Projects
-### **BIM-based** **jobsite** **work** **management** **information** **system** (2018/10 - 2019/10)
+### **BIM-based** **jobsite** **work** **management** **information** **system** (October 2018 - October 2019)
 Manage interactive contruction data including BIM models, drawings and panoramas, generate on-site QR codes for construction quality control and manage RFIs to track construction issues.
 
-### **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (2017/10 - 2018/5)
+### **BIM**, **GIS** **and** **IoT** **Integrated** **environment** **monitoring** **system** (October 2017 - May 2018)
 Manage sensors and building models, monitor instant sensor data through web viewer including BIM and GIS, and generate vizualization charts for historical sensor data.
 
-### **BIM-based** **material** **management** **information** **system** (2016/12 - 2017/6)
+### **BIM-based** **material** **management** **information** **system** (December 2016 - June 2017)
 Manage contruction materials shipping order, track the contruction materials arrival status and check materials types and installation positions on site via 3D BIM Models.
 
 ## Languages
