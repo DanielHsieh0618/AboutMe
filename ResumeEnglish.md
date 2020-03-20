@@ -1,7 +1,7 @@
 # Yi Hsuan Chien (Justin)
 
 + Job Title : Full-Stack Developer
-+ Education : Master's degree in Engineering Management at National Cheng Kung University(2014/9-2016/6)
++ Education : Master's degree in Engineering Management at National Cheng Kung University(September 2014 - June 2016)
 + Location  : Taipei, Taiwan
 + Email     : justin6302971@gmail.com
 
